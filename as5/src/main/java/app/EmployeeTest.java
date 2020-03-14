@@ -9,10 +9,7 @@ package app;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author Admin
- */
+
 public class EmployeeTest {
 
     ArrayList<Employee> eList = new ArrayList<>();
