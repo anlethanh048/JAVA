@@ -30,7 +30,7 @@ public class Employee {
         Scanner in = new Scanner(System.in);
         while (true) {
             try {
-                System.out.println("Enter ID: " + id);
+                System.out.println("Enter ID:" + id);
                 id = in.nextLine().trim();
                 if (id.length() > 0) {
                     break;
